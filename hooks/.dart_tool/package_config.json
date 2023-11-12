@@ -158,13 +158,13 @@
       "languageVersion": "2.19"
     },
     {
-      "name": "flutter_init_hooks",
+      "name": "laravel_filament_settings_hooks",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-11-08T07:58:33.541930Z",
+  "generated": "2023-11-12T07:51:27.437548Z",
   "generator": "pub",
   "generatorVersion": "3.0.6"
 }
